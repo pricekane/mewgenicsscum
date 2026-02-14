@@ -20,9 +20,9 @@ A simple script to quickly close and restart Mewgenics from Steam. Useful for re
 
 ## How to Use
 
-Simply double-click `restart_mewgenics.bat` whenever you want to restart Mewgenics.
+Unzip the release and simply double-click `restart_mewgenics.bat` whenever you want to restart Mewgenics.
 
-**Optional:** Create a desktop shortcut to the `.bat` file for even quicker access.
+**Optional:** Create a desktop shortcut to the `.bat` file for even quicker access. (Right click restart_mewgenics.bat, Create Shortcut[could be under Show More Options], then drag shortcut to Desktop)
 
 ## Requirements
 
@@ -30,4 +30,4 @@ Simply double-click `restart_mewgenics.bat` whenever you want to restart Mewgeni
 - Mewgenics installed via Steam (default C: drive location)
 - Steam must be running
 
-# If this makes you upset, seek therapy. Good luck, have fun, don't die.
+# Good luck, have fun, stay safe, don't die!
