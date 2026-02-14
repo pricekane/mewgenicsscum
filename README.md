@@ -1,4 +1,4 @@
-# Mewgenics Quick Restart Script
+# Mewgenics Save Scum Script
 
 A simple script to quickly close and restart Mewgenics from Steam. Useful for resetting runs without triggering the game's anti-save scumming measures.
 
@@ -8,13 +8,9 @@ A simple script to quickly close and restart Mewgenics from Steam. Useful for re
 - Waits 2 seconds for clean shutdown
 - Automatically relaunches the game through Steam
 
-## Why Use This?
-
-The script force-closes Mewgenics in a way that mimics an unexpected crash, which prevents the game's anti-save scumming measures from kicking in. This is the same as using Task Manager → Details → Right-click → End Process, but much faster and more convenient.
-
 ## Installation
 
-1. Download both files:
+1. Download both files (or download Release version for them zipped together):
    - `restart_mewgenics.bat`
    - `restart_mewgenics.ps1`
 
@@ -34,23 +30,4 @@ Simply double-click `restart_mewgenics.bat` whenever you want to restart Mewgeni
 - Mewgenics installed via Steam (default C: drive location)
 - Steam must be running
 
-## Troubleshooting
-
-**"Script won't run" or "Execution policy error"**
-- The batch file handles this automatically, but if you run the PowerShell script directly, you may need to allow script execution
-- Right-click the `.bat` file and select "Run as administrator" if needed
-
-**"Game doesn't restart"**
-- Make sure Steam is running
-- Verify Mewgenics is installed and the App ID (686060) is correct
-
-**"Process not found" message**
-- This just means Mewgenics wasn't running when you clicked the script - it will still launch the game
-
-## Credits
-
-Created for the Mewgenics community. Feel free to share and modify!
-
-## Disclaimer
-
-This script force-closes the game process. Use at your own risk. The script is provided as-is with no warranty.
+# If this makes you upset, seek therapy. Good luck, have fun, don't die.
